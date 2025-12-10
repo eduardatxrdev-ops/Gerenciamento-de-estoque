@@ -1,6 +1,9 @@
 # Carangos S/A - Automação de processos 
 A proposta do projeto consiste em criar rotinas que automatizem tarefas internas nos setores Operacional, Estoque, Financeiro e RH na empresa Carangos S/A localizada em Salvador- Ba.
+
+
 Foram implemantadas as seguintes funcionalidades.
+
 Operacional:
 - 
 -
